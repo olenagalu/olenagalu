@@ -29,5 +29,3 @@ A cross-platform learning management system with teacher and student workflows f
 ## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/olena-galushko)
-- [GitHub](https://github.com/olenagalu)
-
