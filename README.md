@@ -10,7 +10,7 @@ I'm a Computer Science student at Florida State University and a Research Suppor
 - 🐕 Building Princess Dog Walker, a web app that helps my friend manage appointments with her clients
 - 🎓 Pursuing a B.S. in Computer Science at Florida State University, graduating in May 2028
 
-## Featured projects
+## Projects
 
 ### [Leavitt Experiment](https://github.com/olenagalu/leavitt-experiment)
 
