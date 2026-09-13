@@ -7,6 +7,7 @@ I'm a Computer Science student at Florida State University and a Research Suppor
 - 🔬 Building a distributed research testbed with locally hosted small language model agents on NVIDIA Jetson Nano devices
 - 🌐 Exploring how communication network topologies affect multi-agent coordination
 - 📊 Developing browser-based dashboards for live experiment monitoring and data collection
+- 🐕 Building Princess Dog Walker, a web app that helps my friend manage appointments with her clients
 - 🎓 Pursuing a B.S. in Computer Science at Florida State University, graduating in May 2028
 
 ## Featured projects
