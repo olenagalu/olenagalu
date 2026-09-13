@@ -15,9 +15,13 @@ I'm a Computer Science student at Florida State University and a Research Suppor
 
 A distributed testbed that recreates the Bavelas-Leavitt experiment with small language model agents across five network topologies. Built with Python, TCP/IP, Ollama, JavaScript, and NVIDIA Jetson devices.
 
-### [Learning Management](https://github.com/olenagalu/learning-management)
+### [Princess Dog Walker](https://github.com/olenagalu/dogwalker)
 
-A cross-platform learning management system with teacher and student workflows for courses, assignments, quizzes, submissions, grades, and notifications. Built with C#, .NET MAUI, ASP.NET Core, PostgreSQL, and Docker.
+A production booking platform for an independent pet-care business in Boca Raton. Customers can manage their dogs, browse live availability, and request regular or overnight care; the owner dashboard manages bookings, services, schedule blocks, and customers. Built with ASP.NET Core, C#, PostgreSQL, Entity Framework Core, JavaScript, HTML/CSS, Docker, and Render. [View the live site](https://princess-dog-walker.onrender.com).
+
+### [Canvas-inspired Learning Management System](https://github.com/olenagalu/learning-management)
+
+A Canvas-inspired learning management app created as a course project at Florida State University. It explores teacher and student workflows for courses, assignments, quizzes, submissions, grades, and notifications using C#, .NET MAUI, ASP.NET Core, PostgreSQL, and Docker.
 
 ## Technical toolkit
 
