@@ -16,9 +16,9 @@ I'm a Computer Science student at Florida State University and a Research Suppor
 
 A distributed testbed that recreates the Bavelas-Leavitt experiment with small language model agents across five network topologies. Built with Python, TCP/IP, Ollama, JavaScript, and NVIDIA Jetson devices.
 
-### [Princess Dog Walker](https://github.com/olenagalu/dogwalker)
+### [Princess Dog Walker](https://github.com/olenagalu/dogwalker-showcase)
 
-A production booking platform for an independent pet-care business in Boca Raton. Customers can manage their dogs, browse live availability, and request regular or overnight care; the owner dashboard manages bookings, services, schedule blocks, and customers. Built with ASP.NET Core, C#, PostgreSQL, Entity Framework Core, JavaScript, HTML/CSS, Docker, and Render. [View the live site](https://princess-dog-walker.onrender.com).
+A production booking platform for an independent pet-care business in Boca Raton. Customers can manage their dogs, browse live availability, and request regular or overnight care; the owner dashboard manages bookings, services, schedule blocks, and customers. Built with ASP.NET Core, C#, PostgreSQL, Entity Framework Core, JavaScript, HTML/CSS, Docker, and Render. [View the live site](https://princessdogwalker.onrender.com/assistant.html).
 
 ### [Canvas-inspired Learning Management System](https://github.com/olenagalu/learning-management)
 
@@ -34,3 +34,4 @@ A Canvas-inspired learning management app created as a course project at Florida
 ## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/olena-galushko)
+
